@@ -20,7 +20,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
+
 <li><a target="_blank" href="https://react-cart-app-vercel.vercel.app">A food cart with react</a></li>
 <li><a target="_blank" href="https://react-quiz-ph.netlify.app">A quiz app with react</a></li>
 <li><a target="_blank" href="https://react-filter-crud.netlify.app">A simple CRUD App with react</a></li>
